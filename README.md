@@ -1,0 +1,2 @@
+# OtomiNet
+Tokenization of Memesis 
